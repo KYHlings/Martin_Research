@@ -9,8 +9,9 @@ cprint('    #########', 'red')
 cprint('   ###########', 'red')
 cprint('  #############', 'red')
 cprint(' ###############', 'red')
-cprint(' ###############', 'white')
-cprint('  #############', 'white')
-cprint('   ###########', 'white')
-cprint('    #########', 'white')
+cprint(' ###############', 'grey')
+cprint('  #############', 'grey')
+cprint('   ###########', 'grey')
+cprint('    #########', 'grey')
+
 
